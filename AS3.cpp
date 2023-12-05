@@ -1,5 +1,5 @@
-#include <iostream> 
-#include <string> 
+#include<iostream> 
+#include<string> 
 #include<iomanip> 
 #include<stdexcept> 
 #include<cstdlib> 
